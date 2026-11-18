@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sergiomonforte.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/research.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/research.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/research.html"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/publications.html"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/cv.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/cv.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/cv.html"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/eu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/eu/research.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/research.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/research.html"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/eu/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/publications.html"/>
+  </url>
+  <url>
+    <loc>https://sergiomonforte.github.io/eu/cv.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sergiomonforte.github.io/cv.html"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://sergiomonforte.github.io/eu/cv.html"/>
+  </url>
+</urlset>
